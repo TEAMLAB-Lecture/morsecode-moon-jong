@@ -323,6 +323,8 @@ def encoding_sentence(english_sentence):
     return result
     # ==================================
 
+    
+
 
 def main():
     print("Morse Code Program!!")
